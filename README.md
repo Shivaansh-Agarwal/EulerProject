@@ -9,5 +9,5 @@
 
 Problem No | Problem | HackerRank Link | Sol_1 | Sol_2 | Date | Useful Resources/Hints
 --- | --- | --- | --- | --- | --- | ---
-1 | [Problem 1](https://projecteuler.net/problem=1) | [#1](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem) | [:key:](https://github.com/shiv-1998/EulerProject/blob/master/ProjectEuler100/Problem_001.py) | - | 05-01-2020 | Sum of AP
-2 | [Problem 2](https://projecteuler.net/problem=2) | [#2](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem) | [:key:](https://github.com/shiv-1998/EulerProject/blob/master/ProjectEuler100/Problem_002.py) | - | 05-01-2020 | [Fibonacci Series Questions](https://www.geeksforgeeks.org/tag/fibonacci/)
+1 | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | [Problem #1](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem) | [:key:](https://github.com/shiv-1998/EulerProject/blob/master/ProjectEuler100/Problem_001.py) | - | 05-01-2020 | Sum of AP
+2 | [Even Fibonacci numbers](https://projecteuler.net/problem=2) | [Problem #2](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem) | [:key:](https://github.com/shiv-1998/EulerProject/blob/master/ProjectEuler100/Problem_002.py) | - | 05-01-2020 | [Fibonacci Series Questions](https://www.geeksforgeeks.org/tag/fibonacci/)
